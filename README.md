@@ -1,3 +1,6 @@
+![rps game](rps.jpeg "RPS Game")
+
+
 # Rock Paper Scissir Game with Python
 
 TODO: Write a project description
